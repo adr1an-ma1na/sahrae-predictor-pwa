@@ -1,0 +1,33 @@
+{
+  "name": "Sahrae Predictor",
+  "short_name": "Predictor",
+  "description": "Football research terminal: fixtures across ~220 competitions, a Dixon-Coles Poisson engine with Kalman-filtered team ratings, market-anchored probabilities and a self-grading accuracy ledger.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070708",
+  "theme_color": "#070708",
+  "categories": ["sports"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
